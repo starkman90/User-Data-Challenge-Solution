@@ -11,13 +11,13 @@
 
 @interface UserData : NSObject
 
-@property (strong, nonatomic) NSString *username;
-@property (strong, nonatomic) NSString *email;
-@property (strong, nonatomic) NSString *password;
-@property (strong, nonatomic) NSNumber *age;
+//@property (strong, nonatomic) NSString *username;
+//@property (strong, nonatomic) NSString *email;
+//@property (strong, nonatomic) NSString *password;
+//@property (strong, nonatomic) NSNumber *age;
+//
+//@property (strong, nonatomic) UIImage *profilePicture;
 
-@property (strong, nonatomic) UIImage *profilePicture;
-
-+ (NSArray *)users;
++(NSArray *)users;
 
 @end
