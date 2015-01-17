@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E5CA786A-512F-47F9-A85C-69E4298A04C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>User Data Challenge Solution</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D859A6EF0351F66BDA0CE6DD4B224B5CC34520B</key>
+		<string>https://github.com/starkman90/User-Data-Challenge-Solution.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>User Data Challenge Solution.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D859A6EF0351F66BDA0CE6DD4B224B5CC34520B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/starkman90/User-Data-Challenge-Solution.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D859A6EF0351F66BDA0CE6DD4B224B5CC34520B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D859A6EF0351F66BDA0CE6DD4B224B5CC34520B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>User%20Data%20Challenge%20Solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>
